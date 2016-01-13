@@ -1,0 +1,13 @@
+<bizapp>
+  <name>bizcommon</name>
+  <type>bizapp</type>
+  <title>Business Common Library</title>
+  <version>2.0.2</version>
+  <visibility>hide</visibility>
+  <author>Hanwha</author>
+  <description>bizcommon</description>
+  <url></url>
+  <icon></icon>
+  <securedPath>
+  </securedPath>
+</bizapp>
